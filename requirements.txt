@@ -2,7 +2,6 @@ opencv-python
 numpy
 pandas
 streamlit
-LogisticRegression
 Image
 load_model
 scikit-learn
