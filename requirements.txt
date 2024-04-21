@@ -3,6 +3,5 @@ numpy
 pandas
 streamlit
 Image
-load_model
 scikit-learn
 tensorflow
