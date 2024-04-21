@@ -8,5 +8,3 @@ scikit-learn
 tensorflow
 plotly
 openpyxl
-tensorrt
-ps
