@@ -1,0 +1,9 @@
+cv2
+numpy
+pandas
+streamlit
+LogisticRegression
+Image
+load_model
+scikit-learn
+tensorflow
