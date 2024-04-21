@@ -5,6 +5,6 @@ pandas
 streamlit
 Image
 scikit-learn
-tensorflow
+tensorflow[and-cuda]
 plotly
 openpyxl
