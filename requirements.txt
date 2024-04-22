@@ -1,11 +1,10 @@
-opencv-python-headless
-opencv-contrib-python
+opencv
 mediapipe
 numpy
 pandas
 streamlit
 Image
 scikit-learn
-tensorflow[and-cuda]
+tensorflow
 plotly
 openpyxl
